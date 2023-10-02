@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "facultyrecruitmentupgradation",
+  "private_key_id": "5e06eb0edef32f536db7835991cf5e9ca8425ee2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDzjpRcpceQlLTX\n9yLqQf7wb311aI9jCReirZcao0n5LpPJ3cNy1WrlXtHKIybk4jPLe+AVISq05Qda\np1xTzycGnyVVNAevYbK8NAH5rY1u3FuWK/nhKCJ53vEtXJGL0w4FYeB6HVuMYNLU\nBJ9TY4Bv/uxVZWKsdueLGKr9e4PWjVe3oPC8te/OS32O1pbQlw8tESZ7ajpaOUec\ndkvhHZ5R48PVO6fPwtGSwjBUkZyoTaDQf/fWZVD+ZyRSXtbKPQ7xnuLMV5UCqC/R\nLn5UnrbrHYnFM1a8G7nQhMOZUuyFTd86HPzu4c1SIQuuA0zkJzLxSSk0vGRTeI7E\nSFkjjvSHAgMBAAECggEAJInO0HQJvjMjoESnUcfTKcSSveg7nqAQvNXYVeWKUEjV\nthKVYucJMYjp5dkj2XGP/fvDBcMjMjPWcxn+0WSXQQ3jXrwUAmfLQHh4QA9H07UD\nmRdW1kRG9naPmFO1/Wk3xhnwFbx4GAAMkO8dQeLVtAzlQqMXobJNkUIC9k0vMvgC\nyj1TtezgL7sNDhcgePZ8lw/WlbY/iaX6DrHSVmWI8F53dxwggVLTZMcMw2TWn2DH\nybGLdWrAwt7VJG3UZ+X16OTIYeln07Hlz65V8sUR/+WXELHASbZ50D1WPJb9J8R/\ndJlyK12E/TOaQm5r50lPCcF/eqT3vmBqQquc9PwF6QKBgQD7qXsNGstcE339X2ti\nHHcsKmYupedFbt37uY5BOXAKfVD8eBFqWh0uiBAjPTUQ/43RERnmdcQpDTM5fIeM\nhzBDRc0rXRNDk/zC03b9It6+uRTbKlCVItr4KXiYddrQeHlAOPe+viFllLSO3DVn\nubAUhgqd1IWSmHyT+CsioZ0tvwKBgQD3wVVPTjcgIKFzQhH2ug/v62r7BbmajIfZ\nvZR2q/gLs9m9mQTyTo9ViZEGfxf+/zk6/5GtZtaf3pH8y20y4NjoOJ0tjgF5AL6y\nrNA2E6C/V7VYMOG3FsZQDEvU657polYE6OpcJuQuQ6ak6Ia6s42yvw4QghLMfOJZ\nuqrt7Kt7OQKBgBjNdEYvXNl/RkyBafjqa0hcCWQRj8CFE7WqbP26pnMyNJgdUUIV\nDYk3ebevYZqCRTzUnaPb+XA+T80bm9RawoPuzjC25J4laKTe6Hw8Qo2zef27puN7\n4u7QT4VfICippvGQa8JNxMbZKA5oX48Qeu0a5NL3Tg7LnoOK0t1/5hjLAoGAETkz\ngQvi8SzTjHuvXAObUAaBrWm8eW4Dk7OGOqnB2K5sGK4mleG4PS4PEvCK7oM3q05R\nBkj76qlCZNyPftX6vkoRQzV4DL1shGdXIitDJYonZTYguuWua6ovK2Il7gAHEthO\nUpGxkzXIw/YWR6xr0V1O0P7555VW9v3vHBMz6KECgYEAwpDkl/UKRO9Vs9jHchJ+\nLoPKSQltY8hJvdz2XI5s2MbuWI2uZ2qAxCdZ5uaHDLVH8LXnlfGaT8PzDvduKlf1\nz0ZmG5ZhWprwv6PbxwaxDf8EvL5XqRDCiDj1HEJHrZWPpjwCpOld0XP7rBxW4Ck8\nHE+29AfqphMATGip1atS6xU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheetsaccess@facultyrecruitmentupgradation.iam.gserviceaccount.com",
+  "client_id": "104347995103605148269",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetsaccess%40facultyrecruitmentupgradation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
